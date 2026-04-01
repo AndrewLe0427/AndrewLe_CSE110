@@ -11,9 +11,9 @@
 I also agree that `Git status` is a good command.
 
 My favorite answer to any question:
-[Ask Google](google.com)
+[Ask Google](https://www.google.com/)
 
-Link to my file: [Me](#andrew-le)
+Link to my file: [At the end](#the-end)
 
 Read me: [Read this file](/README.md)
 
@@ -38,3 +38,5 @@ Everyday I should consistently studies a bit of each of these:
 
 
 ![Goodbye Turtle](https://img.freepik.com/premium-vector/turtle-is-saying-hello_1259590-3.jpg?w=2000)
+
+# The end!
